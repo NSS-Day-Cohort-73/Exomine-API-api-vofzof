@@ -1,0 +1,6 @@
+@ExoMineAPI_HostAddress = http://localhost:5202
+
+GET {{ExoMineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
